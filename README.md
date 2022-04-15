@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cajudeleite&label=Profile%20views&color=0e75b6&style=flat" alt="cajudeleite" /> </p>
 
-- 🔭 I’m currently working at [Spellz](https://spellz.apps)
+- 🔭 I’m currently working at [Spellz](https://spellz.app)
 
 - 🌱 I’m currently learning **ExpressJS**
 
