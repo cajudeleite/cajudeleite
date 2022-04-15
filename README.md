@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cajudeleite&label=Profile%20views&color=0e75b6&style=flat" alt="cajudeleite" /> </p>
 
-- 🔭 I’m currently working on [Velas Cruá](https://velas-crua.herokuapp.com/)
+- 🔭 I’m currently working at [Spellz](https://spellz.apps)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ExpressJS**
 
-- 💬 Ask me about **Ruby-On-Rails**
+- 💬 Ask me about **Ruby-On-Rails and React**
 
 - 📫 How to reach me **nathandebaz266@gmail.com**
 
