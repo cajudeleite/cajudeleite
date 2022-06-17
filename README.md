@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Spellz](https://spellz.app)
 
-- 🌱 I’m currently learning **ExpressJS**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **Ruby-On-Rails and React**
 
